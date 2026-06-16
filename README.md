@@ -75,7 +75,8 @@ The interactive system consists of interconnected strategic reporting layouts:
 2.  **Granular Operational Deep-Dive:** Interactive cross-filtered matrices tracking micro-segments, timeline drill-downs, and historical trends.
 3.  **Predictive / Strategic Insight Panel:** Dedicated workspace showing anomaly distributions, moving averages, and cohort metrics.
 
-> **ℹ️ Visual Insight Note:** *[Insert screenshots/mockups or direct links to your Power BI service application here to give recruiters instant visual confirmation of your UX/UI development capability].*
+> **ℹ️ Visual Insight Note:** *[<img width="611" height="341" alt="customer_behaviour_Dashboard" src="https://github.com/user-attachments/assets/51f757ba-0e1f-4590-baf2-cd26cb49bcdf" />
+].*
 
 ---
 
@@ -98,8 +99,8 @@ Ensure your local environment runs the following configurations:
 
 1.  **Clone the Project Repository:**
     ```bash
-    git clone https:https://github.com/jsarthak486/Customer_Behaviour_Analysis/tree/main
-    cd [your-repo-name]
+    git clone https:https://github.com/jsarthak486
+    cd [https://github.com/jsarthak486/Customer_Behaviour_Analysis/tree/main]
     ```
 
 2.  **Environment Setup & Package Ingestion:**
